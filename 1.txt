@@ -1,2 +1,8 @@
 qwe
+<<<<<<< HEAD
 qwe2
+=======
+11
+asdf
+
+>>>>>>> fe44aaeed7c7a981413cf2f768446b2e4a8f5f59
