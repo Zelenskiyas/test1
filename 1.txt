@@ -4,5 +4,8 @@ qwe2
 =======
 11
 asdf
+<<<<<<< HEAD
 
 >>>>>>> fe44aaeed7c7a981413cf2f768446b2e4a8f5f59
+=======
+>>>>>>> f21916b03ca9ccb368595c8cb3aaf5c713cce0f7
